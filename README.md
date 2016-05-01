@@ -1,2 +1,3 @@
 # data_products_presentation
-Repo for Coursera Developing Data Products - Slidify Presentation
+
+## [Slidify](http://rpubs.com/cjustc/177558) presentation for Developing Data Products
